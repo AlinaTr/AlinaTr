@@ -12,7 +12,7 @@ I'm Alina from Romania, and I'm a Software Tester. I am really passionate about 
 * 📱 Flas, Django
 
 ## Examples of Work:
-<img src="https://github.com/AlinaTr/AlinaTr/blob/main/BDD.jpeg" width="256"/> <img src="https://github.com/AlinaTr/AlinaTr/blob/main/api-yonetimi.gif" width="250"/> <img src="https://github.com/AlinaTr/AlinaTr/blob/main/Se.gif" width="250"/> 
+<img src="https://github.com/AlinaTr/AlinaTr/blob/main/BDD.jpeg" width="256"/> <img src="https://github.com/AlinaTr/AlinaTr/blob/main/api-yonetimi.gif" width="256"/> <img src="https://github.com/AlinaTr/AlinaTr/blob/main/Se.gif" width="256"/> 
 
 
 - 🔭 I’m currently working on New testing projects. 
