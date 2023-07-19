@@ -1,4 +1,4 @@
-![Manual and Software Testing](5.gif)
+![Manual and Software Testing](https://www.qamadness.com/wp-content/themes/qamadness/dist/images/gif-animation/qaengineer-animation-rev.gif)
 
 # Hi there 👋, I'm Alina 
 #### Manual and Software Testing
