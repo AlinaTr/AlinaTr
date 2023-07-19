@@ -10,6 +10,8 @@ Skills: Python, Java, SQL, API Testing BDD, Unittest, Flask, Django
 - 🌱 I’m currently learning Django, Flask 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AlinaTr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AlinaTr)  
+
+
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlinaTr)](https://github.com/anuraghazra/github-readme-stats)
