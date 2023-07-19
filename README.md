@@ -19,10 +19,8 @@ I'm Alina from Romania, and I'm a Software Tester. I am really passionate about 
 - 🔭 I’m currently working on New testing projects. 
 - 🌱 I’m currently learning Django, Flask 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlinaTr)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AlinaTr) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]
-
-
- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlinaTr)](https://github.com/anuraghazra/github-readme-stats)
