@@ -1,4 +1,4 @@
-![Manual and Software Testing](https://github.com/AlinaTr/AlinaTr/blob/main/qaengineer-animation-rev.gif)
+![Manual and Software Testing](https://i.pinimg.com/originals/17/07/13/170713ecea0449df54e43dcf926950bf.gif)
 
 # Hi there 👋, I'm Alina 
 #### Manual and Software Testing
