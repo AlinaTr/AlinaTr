@@ -11,7 +11,8 @@ I'm Alina from Romania, and I'm a Software Tester. I am really passionate about 
 * 💻 API, BDD, Unittest
 * 📱 Flas, Django
 
-Skills: Python, Java, SQL, API, BDD, Unittest, Flask, Django
+## Examples of Work:
+<img src="https://github.com/AlinaTr/AlinaTr/blob/main/BDD.jpeg" width="256"/>
 
 - 🔭 I’m currently working on New testing projects. 
 - 🌱 I’m currently learning Django, Flask 
