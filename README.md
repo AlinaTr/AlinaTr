@@ -1,10 +1,17 @@
-### Hi there 👋, Alina Trandafir
-#### Manual and Software Testing
 ![Manual and Software Testing](5.gif)
 
+# Hi there 👋, I'm Alina 
+#### Manual and Software Testing
 I'm Alina from Romania, and I'm a Software Tester. I am really passionate about learning new techniques and frameworks used in software testing. I am also learning Python, Java, and SQL. My goal is to take my knowledge to the next level, and continuously learn and improve to become a mid-level software tester in 2 years. 
 
-Skills: Python, Java, SQL, API Testing BDD, Unittest, Flask, Django
+## Skills and Experience:
+* 👩🏼‍💻 Python
+* 👩🏻‍💻 Java
+* 🗄 SQL
+* 💻 API, BDD, Unittest
+* 📱 Flas, Django
+
+Skills: Python, Java, SQL, API, BDD, Unittest, Flask, Django
 
 - 🔭 I’m currently working on New testing projects. 
 - 🌱 I’m currently learning Django, Flask 
