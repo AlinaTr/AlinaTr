@@ -39,7 +39,7 @@ I'm Alina from Romania, and I'm a Software Tester. I am really passionate about 
 
 
 ## Examples of Work:
-<img src="https://github.com/AlinaTr/AlinaTr/blob/main/BDD.jpeg" width="256"/>  <img src="https://github.com/AlinaTr/AlinaTr/blob/main/Se.gif" width="256"/> <img src="https://github.com/AlinaTr/AlinaTr/blob/main/api-.gif" width="256"/> 
+<img src="[https://github.com/AlinaTr/AlinaTr/blob/main/BDD.jpeg](https://github.com/AlinaTr/AlinaTr/blob/main/Behavior-Driven-DevelopmentBDD-With-Gherkin.jpg)" width="256"/>  <img src="https://github.com/AlinaTr/AlinaTr/blob/main/Se.gif" width="256"/> <img src="https://github.com/AlinaTr/AlinaTr/blob/main/api-.gif" width="256"/> 
 
 ### [Unittest Project](https://github.com/AlinaTr/Unittest_Project)
 ### [BDD-Project](https://github.com/AlinaTr/BDD-Project)
