@@ -59,4 +59,4 @@ I'm Alina from Romania, and I'm a Software Tester. I am really passionate about 
 * Python: IT Factory, 2023
 
 ## Certificates
-* QA Automation Tester
+* [QA Automation Tester](https://github.com/AlinaTr/AlinaTr/blob/main/Trandafir%20Alina%20-%20Ionela%20-%20Testare%20Automata%20Diploma%20IT%20Factory_signed.pdf)
